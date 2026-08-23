@@ -1,28 +1,14 @@
-# Обновление портфолио — Прайс + единый стиль
+# Portfolio redesign
 
-Что добавлено:
-- вкладка «Прайс» в навигацию;
-- 7 услуг с ценами;
-- адаптивные карточки в тёмном cyan/teal стиле;
-- отдельный CTA «Интересует покупка?»;
-- модальное окно с объяснением, что дизайн проекта подбирается под клиента;
-- WhatsApp и Telegram в модальном окне;
-- иллюстрация/референс стилей;
-- визуальный стиль старых разделов подтянут под новый прайс;
-- GitHub Pages base: `/portfolio/`.
-
-После замены файлов:
-```powershell
-npm install
-npm run dev
-```
-
-Для публикации:
-```powershell
-npm run build
-git add .
-git commit -m "Add pricing and client design flow"
-git push
-```
-
-GitHub Pages должен использовать Source: GitHub Actions.
+- Tech / Product visual direction with Dark Premium accents.
+- Hero headline: «Создаю продукты, которые упрощают работу бизнеса.»
+- Removed demo/fake portfolio cases and removed PERSONAL PROJECT / PROJECT 911 block.
+- Projects section is simply «Проекты».
+- Added «Почему со мной работают».
+- Added full 7-step workflow with 50% prepayment / 50% after completion.
+- Added scope-change note: new functionality outside original agreement is priced separately.
+- Added «Что входит в проект» for sites and systems.
+- Databases now include SQLite and PostgreSQL.
+- Pricing: simple site 25k, business site 50k, full web system 90k, Telegram bot 30k, Mini App 50k.
+- .kz domain: 10k. Installation/setup: 3k. Server/support: negotiated.
+- Added client-style explanation: portfolio style is not forced onto customer projects.
