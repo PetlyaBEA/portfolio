@@ -1,6 +1,6 @@
-# CRIS Portfolio — Burgundy Editorial
+# CRIS.DEV Portfolio
 
-Vite + TypeScript portfolio, styled after the approved dark burgundy editorial direction.
+Vite + TypeScript portfolio in a dark brutalist/editorial direction inspired by the provided reference.
 
 ## Local run
 
@@ -15,10 +15,10 @@ npm run dev
 npm run build
 ```
 
-GitHub Pages base path is already configured for:
+GitHub Pages base path is configured for:
 `https://petlyabea.github.io/portfolio/`
 
+## Selected public projects
 
-## Update
-Добавлен проект **International School**:
-https://petlyabea.github.io/International-school/
+- Lumière Beauty Studio — https://petlyabea.github.io/lumiere-salon/
+- International School — https://petlyabea.github.io/International-school/
